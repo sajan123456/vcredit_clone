@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127157031478",
+    "project_id": "vcredit-clone",
+    "storage_bucket": "vcredit-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127157031478:android:e4a834102379555ab73e97",
+        "android_client_info": {
+          "package_name": "com.example.vcredit_copy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127157031478-obv12ct95du0blpd017osh3tbr4etb89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIS9Zx4VdUa-hQBmHHuCJEL2zFRcIpFDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127157031478-obv12ct95du0blpd017osh3tbr4etb89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
